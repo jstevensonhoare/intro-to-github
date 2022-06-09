@@ -9,3 +9,5 @@
 ##### Level 5
 
 ###### And finally level 6
+
+![Image of Stormtroopocat](https://octodex.github.com/images/stormtroopocat.png)
