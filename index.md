@@ -17,3 +17,7 @@
 var cs = "This is C#";
 Console.WriteLine(cs);
 ```
+
+- [ ] Code
+- [ ] Eat
+- [ ] Sleep
