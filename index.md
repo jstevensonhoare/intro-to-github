@@ -11,3 +11,9 @@
 ###### And finally level 6
 
 ![Image of Stormtroopocat](https://octodex.github.com/images/stormtroopocat.png)
+
+```csharp
+// This is a C# comment
+var cs = "This is C#";
+Console.WriteLine(cs);
+```
